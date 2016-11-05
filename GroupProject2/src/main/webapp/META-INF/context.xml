@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context >
+       <Resource name="jdbc/connection" auth="Container" scope="Shareable"
+              type="javax.sql.DataSource" driverClassName="oracle.jdbc.driver.OracleDriver"
+
+              username="trainee1" password="!QAZSE4"
+	          url="jdbc:oracle:thin:@localhost:1521:xe" description=""/>
+
+       <Realm className="org.apache.catalina.realm.DataSourceRealm"
+              dataSourceName="jdbc/connection" localDataSource="true"
+              userTable="PROJECT_USERS" userNameCol="USERNAME" userCredCol="PASSWORD"
+              userRoleTable="PROJECT_USERS" roleNameCol="Role" />
+       <WatchedResource>WEB-INF/web.xml</WatchedResource>
+       <WatchedResource>META-INF/context.xml</WatchedResource>
+</Context>

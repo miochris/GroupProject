@@ -1,0 +1,232 @@
+2016-11-05 20:37:42 INFO  FundController:49 - Update funds of user: Users [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=-2.2] with pay: 2.2
+2016-11-05 20:37:42 INFO  FundController:61 - User withdraws moneyUsers [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=-2.2]
+2016-11-05 20:37:42 INFO  FundController:63 - Update details of user: Users [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=-2.2]
+2016-11-05 20:37:42 INFO  FundController:33 - Get user: Users [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=0.0]
+2016-11-05 20:37:42 INFO  FundController:35 - User has deposited money
+2016-11-05 20:37:42 INFO  FundController:37 - Update funds of user: Users [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=2.1]
+2016-11-05 20:37:42 INFO  EmployController:59 - retreived Dao needed
+2016-11-05 20:37:42 INFO  EmployController:64 - Course Updated
+2016-11-05 20:37:42 INFO  EmployController:66 - User Updated
+2016-11-05 20:37:42 INFO  EmployController:69 - Request Deleted
+2016-11-05 20:37:42 INFO  EmployController:59 - retreived Dao needed
+2016-11-05 20:37:42 INFO  EmployController:64 - Course Updated
+2016-11-05 20:37:42 INFO  EmployController:66 - User Updated
+2016-11-05 20:37:42 INFO  EmployController:69 - Request Deleted
+2016-11-05 20:37:42 INFO  EmployController:81 - Request0Deleted
+2016-11-05 20:37:42 INFO  EmployController:48 - Preview Application Success Page
+2016-11-05 20:37:42 INFO  EmployController:39 - Employ Request Sent
+2016-11-05 20:37:42 INFO  CourseController:104 - Course was created
+2016-11-05 20:37:42 INFO  CourseController:104 - Course was created
+2016-11-05 20:37:42 INFO  CourseController:84 - 0 :Request is deleted
+2016-11-05 20:37:42 INFO  CourseController:113 - Course Price has been updated
+2016-11-05 20:37:42 INFO  CourseController:116 - Courselist preview
+2016-11-05 20:37:42 INFO  CourseController:113 - Course Price has been updated
+2016-11-05 20:37:42 INFO  CourseController:116 - Courselist preview
+2016-11-05 20:37:42 INFO  CourseController:72 - Admin Deleted A Course with id: 1
+2016-11-05 20:37:42 INFO  CourseController:72 - Admin Deleted A Course with id: 1
+2016-11-05 20:37:42 INFO  CourseController:49 - tutor wants to request: null
+2016-11-05 20:37:42 INFO  CourseController:95 - Go to CreateCourse Page
+2016-11-05 20:37:42 INFO  CourseController:81 - Request to create course0 is APPROVED.
+2016-11-05 20:37:42 INFO  CourseController:84 - 0 :Request is deleted
+2016-11-05 20:37:42 INFO  CourseController:59 - addRequest method
+2016-11-05 20:37:42 INFO  CourseController:61 - http request.getSession
+2016-11-05 20:37:42 INFO  CourseController:63 - session.setAttribute(courseAddRequest)
+2016-11-05 20:37:42 INFO  FundController:75 - lessonId  7
+2016-11-05 20:37:42 INFO  FundController:91 - gradeId  1
+2016-11-05 20:37:42 INFO  FundController:112 - Update student grade: Mock for Student, hashCode: 1423639915com.fdmgroup.groupA.model.Grade@d5af0a5
+2016-11-05 20:37:42 INFO  FundController:80 - New Password set fpr user: username
+2016-11-05 20:37:42 INFO  FundController:62 - Created list of lessons[]
+2016-11-05 20:37:42 INFO  FundController:69 - ****{1=2}
+2016-11-05 20:37:42 INFO  FundController:62 - Created list of lessons[]
+2016-11-05 20:37:42 INFO  FundController:69 - ****{1=2, 2=2}
+2016-11-05 20:37:42 INFO  FundController:62 - Created list of lessons[]
+2016-11-05 20:37:42 INFO  FundController:69 - ****{1=2}
+2016-11-05 20:37:42 INFO  FundController:62 - Created list of lessons[]
+2016-11-05 20:37:42 INFO  FundController:69 - ****{1=2, 2=2}
+2016-11-05 20:37:42 INFO  FundController:93 - Set student a CourseMock for Student, hashCode: 971415207Mock for Course, hashCode: 1225554563
+2016-11-05 20:37:42 INFO  EmployController:150 - Student Enroll Request Deleted
+2016-11-05 20:37:42 INFO  EmployController:94 - if no tutor in course, direct to no tutor page
+2016-11-05 20:37:42 INFO  EmployController:76 - retrieve course and student
+2016-11-05 20:37:42 INFO  EmployController:82 - student request to enroll denied
+2016-11-05 20:37:42 INFO  EmployController:76 - retrieve course and student
+2016-11-05 20:37:42 INFO  EmployController:79 - student request to enroll sent
+2016-11-05 20:37:42 INFO  EmployController:110 - add grade of student asignment
+2016-11-05 20:37:42 INFO  EmployController:125 - update tutor pay
+2016-11-05 20:37:42 INFO  EmployController:129 - Course Details Updated
+2016-11-05 20:37:42 INFO  EmployController:131 - Student Details Updated
+2016-11-05 20:37:42 INFO  EmployController:133 - Admin Details Updated
+2016-11-05 20:37:42 INFO  EmployController:135 - Request is Deleted by ID.
+2016-11-05 20:41:29 INFO  FundController:49 - Update funds of user: Users [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=-2.2] with pay: 2.2
+2016-11-05 20:41:29 INFO  FundController:61 - User withdraws moneyUsers [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=-2.2]
+2016-11-05 20:41:29 INFO  FundController:63 - Update details of user: Users [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=-2.2]
+2016-11-05 20:41:29 INFO  FundController:33 - Get user: Users [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=0.0]
+2016-11-05 20:41:29 INFO  FundController:35 - User has deposited money
+2016-11-05 20:41:29 INFO  FundController:37 - Update funds of user: Users [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=2.1]
+2016-11-05 20:41:29 INFO  EmployController:59 - retreived Dao needed
+2016-11-05 20:41:29 INFO  EmployController:64 - Course Updated
+2016-11-05 20:41:29 INFO  EmployController:66 - User Updated
+2016-11-05 20:41:29 INFO  EmployController:69 - Request Deleted
+2016-11-05 20:41:29 INFO  EmployController:59 - retreived Dao needed
+2016-11-05 20:41:29 INFO  EmployController:64 - Course Updated
+2016-11-05 20:41:29 INFO  EmployController:66 - User Updated
+2016-11-05 20:41:29 INFO  EmployController:69 - Request Deleted
+2016-11-05 20:41:29 INFO  EmployController:81 - Request0Deleted
+2016-11-05 20:41:29 INFO  EmployController:48 - Preview Application Success Page
+2016-11-05 20:41:29 INFO  EmployController:39 - Employ Request Sent
+2016-11-05 20:41:29 INFO  CourseController:104 - Course was created
+2016-11-05 20:41:29 INFO  CourseController:104 - Course was created
+2016-11-05 20:41:29 INFO  CourseController:84 - 0 :Request is deleted
+2016-11-05 20:41:29 INFO  CourseController:113 - Course Price has been updated
+2016-11-05 20:41:29 INFO  CourseController:116 - Courselist preview
+2016-11-05 20:41:29 INFO  CourseController:113 - Course Price has been updated
+2016-11-05 20:41:29 INFO  CourseController:116 - Courselist preview
+2016-11-05 20:41:29 INFO  CourseController:72 - Admin Deleted A Course with id: 1
+2016-11-05 20:41:29 INFO  CourseController:72 - Admin Deleted A Course with id: 1
+2016-11-05 20:41:29 INFO  CourseController:49 - tutor wants to request: null
+2016-11-05 20:41:29 INFO  CourseController:95 - Go to CreateCourse Page
+2016-11-05 20:41:29 INFO  CourseController:81 - Request to create course0 is APPROVED.
+2016-11-05 20:41:29 INFO  CourseController:84 - 0 :Request is deleted
+2016-11-05 20:41:29 INFO  CourseController:59 - addRequest method
+2016-11-05 20:41:29 INFO  CourseController:61 - http request.getSession
+2016-11-05 20:41:29 INFO  CourseController:63 - session.setAttribute(courseAddRequest)
+2016-11-05 20:41:29 INFO  FundController:75 - lessonId  7
+2016-11-05 20:41:29 INFO  FundController:91 - gradeId  1
+2016-11-05 20:41:29 INFO  FundController:112 - Update student grade: Mock for Student, hashCode: 650679651com.fdmgroup.groupA.model.Grade@3bd6ba24
+2016-11-05 20:41:29 INFO  FundController:80 - New Password set fpr user: username
+2016-11-05 20:41:29 INFO  FundController:62 - Created list of lessons[]
+2016-11-05 20:41:29 INFO  FundController:69 - ****{1=2}
+2016-11-05 20:41:29 INFO  FundController:62 - Created list of lessons[]
+2016-11-05 20:41:29 INFO  FundController:69 - ****{1=2, 2=2}
+2016-11-05 20:41:29 INFO  FundController:62 - Created list of lessons[]
+2016-11-05 20:41:29 INFO  FundController:69 - ****{1=2}
+2016-11-05 20:41:29 INFO  FundController:62 - Created list of lessons[]
+2016-11-05 20:41:29 INFO  FundController:69 - ****{1=2, 2=2}
+2016-11-05 20:41:29 INFO  FundController:93 - Set student a CourseMock for Student, hashCode: 704277349Mock for Course, hashCode: 130494156
+2016-11-05 20:41:29 INFO  EmployController:150 - Student Enroll Request Deleted
+2016-11-05 20:41:29 INFO  EmployController:94 - if no tutor in course, direct to no tutor page
+2016-11-05 20:41:29 INFO  EmployController:76 - retrieve course and student
+2016-11-05 20:41:29 INFO  EmployController:82 - student request to enroll denied
+2016-11-05 20:41:29 INFO  EmployController:76 - retrieve course and student
+2016-11-05 20:41:29 INFO  EmployController:79 - student request to enroll sent
+2016-11-05 20:41:29 INFO  EmployController:110 - add grade of student asignment
+2016-11-05 20:41:29 INFO  EmployController:125 - update tutor pay
+2016-11-05 20:41:29 INFO  EmployController:129 - Course Details Updated
+2016-11-05 20:41:29 INFO  EmployController:131 - Student Details Updated
+2016-11-05 20:41:29 INFO  EmployController:133 - Admin Details Updated
+2016-11-05 20:41:29 INFO  EmployController:135 - Request is Deleted by ID.
+2016-11-05 20:42:12 INFO  FundController:49 - Update funds of user: Users [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=-2.2] with pay: 2.2
+2016-11-05 20:42:12 INFO  FundController:61 - User withdraws moneyUsers [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=-2.2]
+2016-11-05 20:42:12 INFO  FundController:63 - Update details of user: Users [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=-2.2]
+2016-11-05 20:42:12 INFO  FundController:33 - Get user: Users [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=0.0]
+2016-11-05 20:42:12 INFO  FundController:35 - User has deposited money
+2016-11-05 20:42:12 INFO  FundController:37 - Update funds of user: Users [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=2.1]
+2016-11-05 20:42:12 INFO  EmployController:59 - retreived Dao needed
+2016-11-05 20:42:12 INFO  EmployController:64 - Course Updated
+2016-11-05 20:42:12 INFO  EmployController:66 - User Updated
+2016-11-05 20:42:12 INFO  EmployController:69 - Request Deleted
+2016-11-05 20:42:12 INFO  EmployController:59 - retreived Dao needed
+2016-11-05 20:42:12 INFO  EmployController:64 - Course Updated
+2016-11-05 20:42:12 INFO  EmployController:66 - User Updated
+2016-11-05 20:42:12 INFO  EmployController:69 - Request Deleted
+2016-11-05 20:42:12 INFO  EmployController:81 - Request0Deleted
+2016-11-05 20:42:12 INFO  EmployController:48 - Preview Application Success Page
+2016-11-05 20:42:12 INFO  EmployController:39 - Employ Request Sent
+2016-11-05 20:42:12 INFO  CourseController:104 - Course was created
+2016-11-05 20:42:12 INFO  CourseController:104 - Course was created
+2016-11-05 20:42:12 INFO  CourseController:84 - 0 :Request is deleted
+2016-11-05 20:42:12 INFO  CourseController:113 - Course Price has been updated
+2016-11-05 20:42:12 INFO  CourseController:116 - Courselist preview
+2016-11-05 20:42:12 INFO  CourseController:113 - Course Price has been updated
+2016-11-05 20:42:12 INFO  CourseController:116 - Courselist preview
+2016-11-05 20:42:12 INFO  CourseController:72 - Admin Deleted A Course with id: 1
+2016-11-05 20:42:12 INFO  CourseController:72 - Admin Deleted A Course with id: 1
+2016-11-05 20:42:12 INFO  CourseController:49 - tutor wants to request: null
+2016-11-05 20:42:12 INFO  CourseController:95 - Go to CreateCourse Page
+2016-11-05 20:42:12 INFO  CourseController:81 - Request to create course0 is APPROVED.
+2016-11-05 20:42:12 INFO  CourseController:84 - 0 :Request is deleted
+2016-11-05 20:42:12 INFO  CourseController:59 - addRequest method
+2016-11-05 20:42:12 INFO  CourseController:61 - http request.getSession
+2016-11-05 20:42:12 INFO  CourseController:63 - session.setAttribute(courseAddRequest)
+2016-11-05 20:42:12 INFO  FundController:75 - lessonId  7
+2016-11-05 20:42:12 INFO  FundController:91 - gradeId  1
+2016-11-05 20:42:12 INFO  FundController:112 - Update student grade: Mock for Student, hashCode: 1472950462com.fdmgroup.groupA.model.Grade@2d4608a6
+2016-11-05 20:42:13 INFO  FundController:80 - New Password set fpr user: username
+2016-11-05 20:42:13 INFO  FundController:62 - Created list of lessons[]
+2016-11-05 20:42:13 INFO  FundController:69 - ****{1=2}
+2016-11-05 20:42:13 INFO  FundController:62 - Created list of lessons[]
+2016-11-05 20:42:13 INFO  FundController:69 - ****{1=2, 2=2}
+2016-11-05 20:42:13 INFO  FundController:62 - Created list of lessons[]
+2016-11-05 20:42:13 INFO  FundController:69 - ****{1=2}
+2016-11-05 20:42:13 INFO  FundController:62 - Created list of lessons[]
+2016-11-05 20:42:13 INFO  FundController:69 - ****{1=2, 2=2}
+2016-11-05 20:42:13 INFO  FundController:93 - Set student a CourseMock for Student, hashCode: 170050776Mock for Course, hashCode: 1171094469
+2016-11-05 20:42:13 INFO  EmployController:150 - Student Enroll Request Deleted
+2016-11-05 20:42:13 INFO  EmployController:94 - if no tutor in course, direct to no tutor page
+2016-11-05 20:42:13 INFO  EmployController:76 - retrieve course and student
+2016-11-05 20:42:13 INFO  EmployController:82 - student request to enroll denied
+2016-11-05 20:42:13 INFO  EmployController:76 - retrieve course and student
+2016-11-05 20:42:13 INFO  EmployController:79 - student request to enroll sent
+2016-11-05 20:42:13 INFO  EmployController:110 - add grade of student asignment
+2016-11-05 20:42:13 INFO  EmployController:125 - update tutor pay
+2016-11-05 20:42:13 INFO  EmployController:129 - Course Details Updated
+2016-11-05 20:42:13 INFO  EmployController:131 - Student Details Updated
+2016-11-05 20:42:13 INFO  EmployController:133 - Admin Details Updated
+2016-11-05 20:42:13 INFO  EmployController:135 - Request is Deleted by ID.
+2016-11-05 20:45:25 INFO  FundController:49 - Update funds of user: Users [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=-2.2] with pay: 2.2
+2016-11-05 20:45:25 INFO  FundController:61 - User withdraws moneyUsers [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=-2.2]
+2016-11-05 20:45:25 INFO  FundController:63 - Update details of user: Users [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=-2.2]
+2016-11-05 20:45:25 INFO  FundController:33 - Get user: Users [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=0.0]
+2016-11-05 20:45:25 INFO  FundController:35 - User has deposited money
+2016-11-05 20:45:25 INFO  FundController:37 - Update funds of user: Users [firstname=stringfirstname, lastname=Stringlastname, email=Stringemail, username=Stringuername, password=Stringpassword, balance=2.1]
+2016-11-05 20:45:25 INFO  EmployController:59 - retreived Dao needed
+2016-11-05 20:45:25 INFO  EmployController:64 - Course Updated
+2016-11-05 20:45:25 INFO  EmployController:66 - User Updated
+2016-11-05 20:45:25 INFO  EmployController:69 - Request Deleted
+2016-11-05 20:45:25 INFO  EmployController:59 - retreived Dao needed
+2016-11-05 20:45:25 INFO  EmployController:64 - Course Updated
+2016-11-05 20:45:25 INFO  EmployController:66 - User Updated
+2016-11-05 20:45:25 INFO  EmployController:69 - Request Deleted
+2016-11-05 20:45:25 INFO  EmployController:81 - Request0Deleted
+2016-11-05 20:45:25 INFO  EmployController:48 - Preview Application Success Page
+2016-11-05 20:45:25 INFO  EmployController:39 - Employ Request Sent
+2016-11-05 20:45:25 INFO  CourseController:104 - Course was created
+2016-11-05 20:45:25 INFO  CourseController:104 - Course was created
+2016-11-05 20:45:25 INFO  CourseController:84 - 0 :Request is deleted
+2016-11-05 20:45:25 INFO  CourseController:113 - Course Price has been updated
+2016-11-05 20:45:25 INFO  CourseController:116 - Courselist preview
+2016-11-05 20:45:25 INFO  CourseController:113 - Course Price has been updated
+2016-11-05 20:45:25 INFO  CourseController:116 - Courselist preview
+2016-11-05 20:45:25 INFO  CourseController:72 - Admin Deleted A Course with id: 1
+2016-11-05 20:45:25 INFO  CourseController:72 - Admin Deleted A Course with id: 1
+2016-11-05 20:45:25 INFO  CourseController:49 - tutor wants to request: null
+2016-11-05 20:45:25 INFO  CourseController:95 - Go to CreateCourse Page
+2016-11-05 20:45:25 INFO  CourseController:81 - Request to create course0 is APPROVED.
+2016-11-05 20:45:25 INFO  CourseController:84 - 0 :Request is deleted
+2016-11-05 20:45:25 INFO  CourseController:59 - addRequest method
+2016-11-05 20:45:25 INFO  CourseController:61 - http request.getSession
+2016-11-05 20:45:25 INFO  CourseController:63 - session.setAttribute(courseAddRequest)
+2016-11-05 20:45:25 INFO  FundController:75 - lessonId  7
+2016-11-05 20:45:25 INFO  FundController:91 - gradeId  1
+2016-11-05 20:45:25 INFO  FundController:112 - Update student grade: Mock for Student, hashCode: 111888987com.fdmgroup.groupA.model.Grade@2abe9173
+2016-11-05 20:45:25 INFO  FundController:80 - New Password set fpr user: username
+2016-11-05 20:45:25 INFO  FundController:62 - Created list of lessons[]
+2016-11-05 20:45:25 INFO  FundController:69 - ****{1=2}
+2016-11-05 20:45:25 INFO  FundController:62 - Created list of lessons[]
+2016-11-05 20:45:25 INFO  FundController:69 - ****{1=2, 2=2}
+2016-11-05 20:45:25 INFO  FundController:62 - Created list of lessons[]
+2016-11-05 20:45:25 INFO  FundController:69 - ****{1=2}
+2016-11-05 20:45:25 INFO  FundController:62 - Created list of lessons[]
+2016-11-05 20:45:25 INFO  FundController:69 - ****{1=2, 2=2}
+2016-11-05 20:45:25 INFO  FundController:93 - Set student a CourseMock for Student, hashCode: 345060426Mock for Course, hashCode: 1505123790
+2016-11-05 20:45:25 INFO  EmployController:150 - Student Enroll Request Deleted
+2016-11-05 20:45:25 INFO  EmployController:94 - if no tutor in course, direct to no tutor page
+2016-11-05 20:45:25 INFO  EmployController:76 - retrieve course and student
+2016-11-05 20:45:25 INFO  EmployController:82 - student request to enroll denied
+2016-11-05 20:45:25 INFO  EmployController:76 - retrieve course and student
+2016-11-05 20:45:25 INFO  EmployController:79 - student request to enroll sent
+2016-11-05 20:45:25 INFO  EmployController:110 - add grade of student asignment
+2016-11-05 20:45:25 INFO  EmployController:125 - update tutor pay
+2016-11-05 20:45:25 INFO  EmployController:129 - Course Details Updated
+2016-11-05 20:45:25 INFO  EmployController:131 - Student Details Updated
+2016-11-05 20:45:25 INFO  EmployController:133 - Admin Details Updated
+2016-11-05 20:45:25 INFO  EmployController:135 - Request is Deleted by ID.
