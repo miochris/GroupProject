@@ -1,3 +1,3 @@
 # GroupProject
-Online Course
-test git
+A Spring web app for an online course website.
+
